@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354850838883",
+    "project_id": "talentolocalappcv",
+    "storage_bucket": "talentolocalappcv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354850838883:android:1ef4d35cfba476e2bf9b56",
+        "android_client_info": {
+          "package_name": "com.talentolocalappcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6R1RYE4rISgRlBBfG_m-GVNQ9_q0_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
